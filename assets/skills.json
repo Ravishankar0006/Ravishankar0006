@@ -1,0 +1,13 @@
+{
+  "title": "Technical Skill Radar",
+  "_comment": "Initial self-assessment. Adjust the values to reflect your actual proficiency.",
+  "axes": [
+    { "label": "Python", "value": 75 },
+    { "label": "JavaScript", "value": 75 },
+    { "label": "React", "value": 70 },
+    { "label": "C++", "value": 70 },
+    { "label": "Google Cloud", "value": 80 },
+    { "label": "GenAI / Vertex AI", "value": 75 },
+    { "label": "Data Science", "value": 70 }
+  ]
+}

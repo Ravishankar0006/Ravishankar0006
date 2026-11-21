@@ -1,0 +1,17 @@
+{
+  "_comment": "Ravi Shankar Bhardwaj - Featured GitHub Projects",
+  "projects": [
+    {
+      "repo": "aai-asset-manager",
+      "description": "An asset management solution for organizing and tracking IT assets, developed around real-world airport inventory workflows."
+    },
+    {
+      "repo": "aai-complaint-token-system",
+      "description": "A complaint management and token-based tracking system designed to streamline complaint registration and resolution."
+    },
+    {
+      "repo": "inventory-management-system",
+      "description": "An inventory management application for organizing and managing resources efficiently."
+    }
+  ]
+}
