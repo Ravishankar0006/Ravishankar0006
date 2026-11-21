@@ -28,11 +28,6 @@
 
 ---
 
-## `~/` whoami
-
-```console
-$ cat about.txt
-```
 
 ## ~/ whoami
 
